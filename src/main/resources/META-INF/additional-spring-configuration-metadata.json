@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "app.srs-server-url",
+      "type": "java.lang.String",
+      "description": "URL for HTTP Endpoint for srs API"
+  }
+] }
